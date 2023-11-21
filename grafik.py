@@ -51,7 +51,12 @@ my_labelqwer.grid(row=4, column=6)
 
 
 
+
 root.mainloop()
+
+
+
+
 
 
 
